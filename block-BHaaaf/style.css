@@ -1,9 +1,9 @@
-h1 {
+.heading {
     font-size: 32px;
     color: brown;
 }
 
-p {
+#unique {
     font-size: 20px;
     color: cornflowerblue;
 }
