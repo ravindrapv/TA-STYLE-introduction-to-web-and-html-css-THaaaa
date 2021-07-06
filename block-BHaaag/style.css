@@ -1,0 +1,25 @@
+body
+{
+    background-color: #22396A;
+    color: #fff;
+}
+
+h1 {
+    color: #fff;
+    font-size: 32px;
+}
+
+h2 {
+    color: #31BB66;
+    font-size: 28px;
+}
+.heading
+{
+    color: rgb(34, 53, 139);
+    font-size: 25px;
+}
+.address
+{
+    color: red;
+    font-size: 15px;
+}
