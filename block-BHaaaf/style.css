@@ -1,0 +1,13 @@
+.heading {
+    font-size: 32px;
+    color: brown;
+}
+
+#unique {
+    font-size: 20px;
+    color: cornflowerblue;
+}
+
+body {
+    background-color: darkgray;
+}
