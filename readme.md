@@ -24,10 +24,10 @@
     <img src="images/logo.png" alt="Logo" width="200" height="200" style="background-color:#FFFFFF;">
   </a>
 
-  <h3 align="center">Download Me</h3>
+  <h3 align="center">flake</h3>
 
   <p align="center">
-    An awesome video downloader from youtube!
+    chisel your photos
     <br />
     <a href="https://github.com/sohailshaik8328/readme"><strong>Explore the docs »</strong></a>
     <br />
@@ -79,9 +79,9 @@
 Many images you see on the Internet today have undergone compression for various reasons. Image compression can benefit users by having pictures load faster and webpages use up less space on a Web host. Image compression does not reduce the physical size of an image but instead compresses the data that makes up the image into a smaller size. 
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a PROJECT from scratch
-* You should element DRY principles to the rest of your life :smile:
+* Quality progressive or layer progressive: The bitstream successively refines the reconstructed image
+* Resolution progressive: First encode a lower image resolution; then encode the difference to higher resolutions
+* Component progressive: First encode grey-scale version; then adding full color.
 
 ## Pages
 
@@ -158,9 +158,8 @@ In many situations we are not able to download the videos from youtube. So, here
  - Open the terminal and navigate to the project folder where the code.js file is visible.
  - Execute `node code.js` command.
  - Run the localhost:5000 in the browser.
- - Select the video which you want to download.
- - Paste the youtube url link in the searchbar which is visible in the home page of our website.
- - Select the video format, quality. And click the download button to download the video.
+ - Select the image which you want to reduce.
+ - click on the submit and email it will sent to your email address with reduce size
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -196,10 +195,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Joel Rajesh - 
+venkatavindra p v - 
 
-- [Twitter](https://twitter.com/JoelRajesh13)
-- [Github](https://github.com/joelshejar)
+- [Twitter](https://twitter.com/ravindrapv)
+- [Github](https://github.com/ravindrapv)
 
 Narendera Palacharla - 
 
@@ -207,15 +206,11 @@ Narendera Palacharla -
 - [Github](https://github.com/palacharlanarendra)
 
 
-Narasimhulu Vasam - 
+ravindra shasthri - 
 
-- [Twitter](https://twitter.com/NarasimhuluV7)
-- [Github](https://github.com/Narasimhuluv)
+- [Twitter](https://twitter.com/)
+- [Github](https://github.com/)
 
-
-Sohail Shaik - 
-- [Twitter](https://twitter.com/SohailS24733102)
-- [Github](https://github.com/sohailshaik8328)
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
