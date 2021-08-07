@@ -29,7 +29,7 @@
   <p align="center">
     chisel your photos
     <br />
-    <a href="https://github.com/sohailshaik8328/readme"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ravindrapv/readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/palacharlanarendra/download-me/issues">Issues</a>
@@ -74,7 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[!['Template][product-screenshot]](./images/template.png)
+[!['Template][product-screenshot]](./https://github.com/ravindrapv/TA-STYLE-introduction-to-web-and-html-css-THaaaa/blob/master/logo.png.png?raw=true)
 
 Many images you see on the Internet today have undergone compression for various reasons. Image compression can benefit users by having pictures load faster and webpages use up less space on a Web host. Image compression does not reduce the physical size of an image but instead compresses the data that makes up the image into a smaller size. 
 
